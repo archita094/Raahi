@@ -1,0 +1,132 @@
+[
+  {
+    "route": "1",
+    "from": "New Maloya Colony",
+    "to": "Mani Majra",
+    "goingRoute": "New Maloya → Maloya → Sec 38W → Sec 25/24 → Sec 23/22 → Aroma → Sec 20/19 → Sec 26/28 → Railway Crossing → Housing Board → Mani Majra",
+    "returningRoute": "Mani Majra → Housing Board → Railway Crossing → Sec 26/28 → Sec 20/19 → Aroma → Sec 23/22 → Sec 25/24 → Sec 38W → Maloya → New Maloya",
+    "firstBus": "6:10 AM",
+    "lastBus": "6:30 PM",
+    "frequency": "20 min"
+  },
+  {
+    "route": "7",
+    "from": "Ram Darbar",
+    "to": "New Maloya Colony",
+    "goingRoute": "Ram Darbar → Sec 47 → SD College → Sec 32 → Sec 30 → Sec 20 → Aroma → ISBT-17 → Sec 23/24 → Sec 25 → Sec 38W → Maloya → New Maloya",
+    "returningRoute": "New Maloya → Maloya → Sec 38W → Sec 25/24 → Sec 23/22 → ISBT-17 → Aroma → Sec 20/30 → Sec 32 → Sec 47 → Ram Darbar",
+    "firstBus": "6:45 AM",
+    "lastBus": "7:15 PM",
+    "frequency": "25 min"
+  },
+  {
+    "route": "10",
+    "from": "ISBT-43",
+    "to": "Mani Majra",
+    "goingRoute": "ISBT-43 → Sec 44/51 → Sec 45 → Sec 46 → Sec 47 → Ram Darbar → Tribune Chowk → CTU Workshop → Railway Station → Kalagram → Housing Board → Mani Majra",
+    "returningRoute": "Mani Majra → Housing Board → Kalagram → Railway Station → CTU Workshop → Tribune Chowk → Ram Darbar → Sec 47 → Sec 46 → Sec 45 → Sec 44/51 → ISBT-43",
+    "firstBus": "5:25 AM",
+    "lastBus": "7:10 PM",
+    "frequency": "75 min"
+  },
+  {
+    "route": "11",
+    "from": "Railway Station",
+    "to": "Punjab Civil Secretariat",
+    "goingRoute": "Railway Station → CTU Workshop → Sec 28 → Sec 27 → Sec 19/7 → Sec 18/8 → ISBT-17 → UT Secretariat → MLA Flats → High Court → Civil Secretariat",
+    "returningRoute": "Civil Secretariat → High Court → MLA Flats → UT Secretariat → ISBT-17 → Sec 18/8 → Sec 19/7 → Sec 27/26 → Sec 28 → CTU Workshop → Railway Station",
+    "firstBus": "8:20 AM",
+    "lastBus": "1:20 PM",
+    "frequency": "60 min"
+  },
+  {
+    "route": "14",
+    "from": "ISBT-43",
+    "to": "Mata Mansa Devi",
+    "goingRoute": "ISBT-43 → Sec 43/44 → Sec 35/34 → Sec 23/22 → ISBT-17 → Sec 18/17 → Sec 8/9 → Lake Chowk → Golf Range → IT Park → Mansa Devi",
+    "returningRoute": "Mata Mansa Devi → IT Park → Golf Range → Lake Chowk → Sec 8/9 → ISBT-17 → Sec 23/22 → Sec 35/34 → Sec 43/44 → ISBT-43",
+    "firstBus": "8:30 AM",
+    "lastBus": "2:30 PM",
+    "frequency": "60 min"
+  },
+  {
+    "route": "20",
+    "from": "ISBT-17",
+    "to": "Kharar",
+    "goingRoute": "ISBT-17 → Aroma → Sec 21 → Sec 33/34 → Sec 44/45 → ISBT-43 → YPS → Sec 62/61 → Sohana → Lakhnaur → Landran → Chappar Chiri → Sante Majra → Kharar",
+    "returningRoute": "Kharar → Sante Majra → Chappar Chiri → Landran → Lakhnaur → Sohana → Sec 69/70 → Sec 61/62 → YPS → ISBT-43 → Sec 44/45 → Sec 33/34 → Sec 21 → Aroma → ISBT-17",
+    "firstBus": "6:00 AM",
+    "lastBus": "9:00 PM",
+    "frequency": "30 min"
+  },
+  {
+    "route": "23A",
+    "from": "ISBT-43",
+    "to": "Khuda Ali Sher",
+    "goingRoute": "ISBT-43 → Sec 43/44 → Sec 35/34 → Aroma → ISBT-17 → Hospital/Sec 16/10 → Sec 15/11 → PGI → New OPD → PEC → Naya Gaon → Khuda Ali Sher",
+    "returningRoute": "Khuda Ali Sher → Naya Gaon → PEC → New OPD → PGI → Sec 15/11 → Sec 16/10 → ISBT-17 → Aroma → Sec 35/34 → Sec 43/44 → ISBT-43",
+    "firstBus": "6:00 AM",
+    "lastBus": "8:40 PM",
+    "frequency": "20 min"
+  },
+  {
+    "route": "30",
+    "from": "ISBT-43",
+    "to": "Nada Sahib",
+    "goingRoute": "ISBT-43 → Sec 42/43 → Sec 36/35 → Sec 23/22 → ISBT-17 → Aroma → Sec 21 → Sec 20 → Sec 19/27 → Sec 26/28 → Railway Crossing → Kalagram → Housing Board → Mani Majra → Command Hospital → Majri Chowk → Nada Sahib",
+    "returningRoute": "Nada Sahib → Majri Chowk → Command Hospital → Mani Majra → Housing Board → Kalagram → Railway Crossing → Sec 26/28 → Sec 19/27 → Sec 20 → Aroma → ISBT-17 → Sec 23/22 → Sec 36/35 → Sec 42/43 → ISBT-43",
+    "firstBus": "5:45 AM",
+    "lastBus": "7:55 PM",
+    "frequency": "25–30 min"
+  },
+  {
+    "route": "35B",
+    "from": "Kharar",
+    "to": "ISBT-17",
+    "goingRoute": "Kharar → Mundi Kharar → Desu Majra → Daun → Balongi → ISBT Mohali → Phase 6 → Sec 55 → Phase 2 → Furniture Chowk → Sec 53/42 → ISBT-43 → Attawa → Sec 36/35 → Sec 22/23 → ISBT-17",
+    "returningRoute": "ISBT-17 → Sec 21/22 → Sec 35/22 → Kissan Bhawan → Attawa → ISBT-43 → Sec 53/42 → Furniture Chowk → Phase 2 → Sec 55 → Phase 6 → ISBT Mohali → Balongi → Daun → Desu Majra → Mundi Kharar → Kharar",
+    "firstBus": "5:35–6:00 AM",
+    "lastBus": "8:40 PM",
+    "frequency": "20–25 min"
+  },
+  {
+    "route": "38AB",
+    "from": "New Airport",
+    "to": "ISBT-17",
+    "goingRoute": "New Airport → Jhurheri → New Airport Chowk → Aero City → IISER → Sec 80/67 → Sohana → Sec 69/70 → Sec 62/61 → YPS → Sec 52/51 → ISBT-43 → Sec 43/44 → Sec 35/34 → Sec 22 → Aroma → ISBT-17",
+    "returningRoute": "ISBT-17 → Aroma → Sec 22 → Sec 35/34 → Sec 43/44 → ISBT-43 → Sec 51/52 → YPS → Sec 61/62 → Sohana → Sec 69/70 → Sec 80/67 → IISER → Aero City → New Airport Chowk → Jhurheri → New Airport",
+    "firstBus": "Not reliably published",
+    "lastBus": "Not reliably published",
+    "frequency": "Not reliably published"
+  },
+  {
+    "route": "71",
+    "from": "ISBT-43",
+    "to": "Saketri/Kaimbwala",
+    "goingRoute": "ISBT-43 → Sec 43/44 → Sec 35/34 → Kissan Bhawan → Sec 23/22 → ISBT-17 → Sec 18 → Sec 19 → Sec 27 → Grain Market → Railway Crossing → Modern Complex → Mani Majra → Mansa Devi → Saketri",
+    "returningRoute": "Saketri → Mansa Devi → Mani Majra → Modern Complex → Railway Crossing → Grain Market → Sec 27 → Sec 19 → Sec 18 → ISBT-17 → Sec 23/22 → Kissan Bhawan → Sec 35/34 → Sec 43/44 → ISBT-43",
+    "firstBus": "6:00 AM",
+    "lastBus": "8:00 PM",
+    "frequency": "30 min"
+  },
+  {
+    "route": "216",
+    "from": "Dera Bassi",
+    "to": "ISBT-43",
+    "goingRoute": "Dera Bassi → Bhankarpur → Singhpura → Zirakpur → Raipur Khurd → Hallo Majra → Industrial Area → Sec 31/29 → Sec 32 Hospital → Sec 33/20 → Sec 34/21 → Aroma → ISBT-17 → Sec 22/23 → Kissan Bhawan → Attawa → ISBT-43",
+    "returningRoute": "ISBT-43 → Attawa → Kissan Bhawan → Sec 23/22 → ISBT-17 → Aroma → Sec 34/21 → Sec 33/20 → Sec 32 Hospital → Sec 31/29 → Hallo Majra → Raipur Khurd → Zirakpur → Singhpura → Bhankarpur → Dera Bassi",
+    "firstBus": "5:10 AM",
+    "lastBus": "9:00 PM",
+    "frequency": "20 min"
+  },
+  {
+    "route": "551",
+    "from": "ISBT-43",
+    "to": "PGI",
+    "goingRoute": "ISBT-43 → Sec 43/44 → Sec 35/34 → JW Marriott → Sec 22 → Aroma → ISBT-17 → Sec 16/17 → General Hospital → Sec 11/10 → PEC → New OPD → PGI",
+    "returningRoute": "PGI → New OPD → PEC → Sec 11/10 → General Hospital → Sec 16/17 → ISBT-17 → Aroma → Sec 22 → Sec 35/34 → Sec 43/44 → ISBT-43",
+    "firstBus": "6:15 AM",
+    "lastBus": "8:15 PM",
+    "frequency": "10 min"
+  }
+]

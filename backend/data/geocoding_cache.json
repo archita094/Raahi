@@ -1,0 +1,50 @@
+{
+  "chandigarh university": {
+    "lat": 30.7686,
+    "lng": 76.575,
+    "name": "Chandigarh University (CU), Gharuan",
+    "sector": "Gharuan"
+  },
+  "chandigarh university (cu)": {
+    "lat": 30.7686,
+    "lng": 76.575,
+    "name": "Chandigarh University (CU), Gharuan",
+    "sector": "Gharuan"
+  },
+  "chandigarh railway station": {
+    "lat": 30.7081,
+    "lng": 76.8207,
+    "name": "Chandigarh Railway Station",
+    "sector": "Railway Station"
+  },
+  "sector 43 isbt": {
+    "lat": 30.7163,
+    "lng": 76.7447,
+    "name": "Sector 43 ISBT, Chandigarh",
+    "sector": "43"
+  },
+  "panjab university (sector 14)": {
+    "lat": 30.7589,
+    "lng": 76.7686,
+    "name": "Panjab University (Sector 14)",
+    "sector": "14"
+  },
+  "elante mall": {
+    "lat": 30.7056,
+    "lng": 76.8028,
+    "name": "Elante Mall, Industrial Area Phase 1",
+    "sector": "Ind Area 1"
+  },
+  "kharar": {
+    "lat": 30.7491,
+    "lng": 76.643,
+    "name": "Kharar Bus Stand",
+    "sector": "Kharar"
+  },
+  "isbt 43": {
+    "lat": 30.7163,
+    "lng": 76.7447,
+    "name": "Sector 43 ISBT, Chandigarh",
+    "sector": "43"
+  }
+}

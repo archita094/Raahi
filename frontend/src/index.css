@@ -1,0 +1,227 @@
+
+:root {
+
+  --bg-pastel-blue: #EBF3FA;
+  --dark-blue: #0F2137;
+  --dark-blue-muted: #1E365D;
+  --off-white: #F8FBFF;
+  --muted-text: #50667F;
+  --light-blue: #D5E5F5;
+  --pastel-accent: #3B82F6;
+  --pastel-accent-hover: #2563EB;
+  --pastel-tag-bg: #D9E8FF;
+  --pastel-hero-bg: #0E1B2E;
+  --pastel-blue-glow: rgba(59, 130, 246, 0.25);
+
+  --bg-sage: var(--bg-pastel-blue);
+  --dark-green: var(--dark-blue);
+  --light-sage: var(--light-blue);
+  --dark-green-translucent: rgba(15, 33, 55, 0.85);
+  --dark-green-light: rgba(59, 130, 246, 0.08);
+  --off-white-translucent: rgba(248, 251, 255, 0.85);
+  --border-subtle: rgba(15, 33, 55, 0.12);
+
+  --color-brand-green: var(--pastel-accent);
+  --color-brand-green-hover: var(--pastel-accent-hover);
+  --color-brand-green-light: rgba(59, 130, 246, 0.12);
+  --color-brand-green-glow: rgba(59, 130, 246, 0.25);
+  --color-border-green: rgba(59, 130, 246, 0.3);
+  --color-dark-green-surface: rgba(30, 54, 93, 0.25);
+  --color-dark-green: #0E1B2E;
+  --color-dark: #0E1B2E;
+  --color-dark-card: #162A45;
+
+  --font-serif: 'Cormorant Garamond', Georgia, 'Times New Roman', serif;
+  --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+
+  --site-max-width: 1400px;
+  --content-max-width: 1100px;
+  --header-height: 90px;
+
+  --ease-editorial: cubic-bezier(0.25, 1, 0.35, 1);
+  --transition-smooth: 0.4s cubic-bezier(0.25, 1, 0.35, 1);
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-size: 16px;
+  background-color: #070F1E;
+  color: #F8FBFF;
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  min-height: 100vh;
+  overflow-x: hidden;
+  background-color: #070F1E;
+  color: #F8FBFF;
+  line-height: 1.75;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  background: none;
+  font-family: inherit;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+::selection {
+  background-color: var(--pastel-accent);
+  color: #ffffff;
+}
+
+.container {
+  width: 100%;
+  max-width: var(--site-max-width);
+  margin: 0 auto;
+  padding: 0 40px;
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 0 20px;
+  }
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg-pastel-blue);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--light-blue);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--pastel-accent);
+}
+
+.serif-headline {
+  font-family: var(--font-serif);
+  font-weight: 400;
+  line-height: 1.15;
+  letter-spacing: -0.01em;
+}
+
+.editorial-tag {
+  font-family: var(--font-sans);
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.25em;
+  color: var(--muted-text);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+@keyframes floatGentle {
+  0%, 100% {
+    transform: translateY(0px) rotate(0deg);
+  }
+  50% {
+    transform: translateY(-12px) rotate(1deg);
+  }
+}
+
+@keyframes floatGentleAlt {
+  0%, 100% {
+    transform: translateY(0px) rotate(0deg);
+  }
+  50% {
+    transform: translateY(14px) rotate(-1.5deg);
+  }
+}
+
+@keyframes floatOrb {
+  0%, 100% {
+    transform: translate(0px, 0px) scale(1);
+  }
+  33% {
+    transform: translate(30px, -40px) scale(1.08);
+  }
+  66% {
+    transform: translate(-25px, 20px) scale(0.95);
+  }
+}
+
+@keyframes rotateSlow {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes pulseGlow {
+  0%, 100% {
+    opacity: 0.4;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.8;
+    transform: scale(1.08);
+  }
+}
+
+@keyframes shimmerSweep {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(200%);
+  }
+}
+
+@keyframes radarPing {
+  0% {
+    transform: scale(0.95);
+    box-shadow: 0 0 0 0 rgba(34, 197, 94, 0.7);
+  }
+  70% {
+    transform: scale(1);
+    box-shadow: 0 0 0 10px rgba(34, 197, 94, 0);
+  }
+  100% {
+    transform: scale(0.95);
+    box-shadow: 0 0 0 0 rgba(34, 197, 94, 0);
+  }
+}
+
+.gm-err-container,
+.gm-err-content,
+div[jsaction*="error"],
+div[style*="z-index: 10000002"],
+div[style*="z-index: 10000001"] {
+  display: none !important;
+  visibility: hidden !important;
+  pointer-events: none !important;
+}
+

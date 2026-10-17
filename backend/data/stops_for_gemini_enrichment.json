@@ -1,0 +1,2805 @@
+[
+  {
+    "name": "ISBT 43",
+    "sector": "43",
+    "latitude": 30.7163,
+    "longitude": 76.7447,
+    "isResolvedOffline": true,
+    "routes": [
+      "35B (going)",
+      "35B (returning)",
+      "216 (going)",
+      "216 (returning)",
+      "23A (going)",
+      "23A (returning)",
+      "38AB (going)",
+      "38AB (returning)",
+      "551 (going)",
+      "551 (returning)",
+      "10 (going)",
+      "10 (returning)",
+      "14 (going)",
+      "14 (returning)",
+      "20 (going)",
+      "20 (returning)",
+      "30 (going)",
+      "30 (returning)"
+    ]
+  },
+  {
+    "name": "ISBT 17",
+    "sector": "17",
+    "latitude": 30.7398,
+    "longitude": 76.7865,
+    "isResolvedOffline": true,
+    "routes": [
+      "35B (going)",
+      "35B (returning)",
+      "216 (returning)",
+      "23A (going)",
+      "38AB (going)",
+      "38AB (returning)",
+      "71 (going)",
+      "71 (returning)",
+      "551 (returning)",
+      "7 (returning)",
+      "11 (going)",
+      "11 (returning)",
+      "14 (going)",
+      "14 (returning)",
+      "20 (going)",
+      "20 (returning)",
+      "1 (returning)",
+      "30 (going)"
+    ]
+  },
+  {
+    "name": "Sector 21A/22",
+    "sector": "21",
+    "latitude": 30.728,
+    "longitude": 76.785,
+    "isResolvedOffline": true,
+    "routes": [
+      "216 (going)",
+      "216 (returning)",
+      "23A (going)",
+      "23A (returning)",
+      "38AB (going)",
+      "38AB (returning)",
+      "551 (going)",
+      "551 (returning)",
+      "30 (going)",
+      "30 (returning)"
+    ]
+  },
+  {
+    "name": "Aroma",
+    "sector": "22/21",
+    "latitude": 30.733,
+    "longitude": 76.775,
+    "isResolvedOffline": true,
+    "routes": [
+      "216 (going)",
+      "23A (returning)",
+      "38AB (going)",
+      "38AB (returning)",
+      "551 (going)",
+      "20 (returning)",
+      "30 (going)",
+      "30 (returning)"
+    ]
+  },
+  {
+    "name": "Mani Majra",
+    "sector": "Manimajra",
+    "latitude": 30.7258,
+    "longitude": 76.8456,
+    "isResolvedOffline": false,
+    "routes": [
+      "71 (going)",
+      "71 (returning)",
+      "10 (going)",
+      "10 (returning)",
+      "1 (going)",
+      "1 (returning)",
+      "30 (going)",
+      "30 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 21/22 Aroma",
+    "sector": "22/21",
+    "latitude": 30.733,
+    "longitude": 76.773,
+    "isResolvedOffline": true,
+    "routes": [
+      "35B (returning)",
+      "216 (returning)",
+      "23A (going)",
+      "551 (returning)",
+      "7 (going)",
+      "7 (returning)",
+      "20 (going)"
+    ]
+  },
+  {
+    "name": "Sector 22/17",
+    "sector": "22",
+    "latitude": 30.7364,
+    "longitude": 76.7818,
+    "isResolvedOffline": true,
+    "routes": [
+      "216 (going)",
+      "23A (returning)",
+      "551 (going)",
+      "7 (going)",
+      "1 (going)",
+      "30 (returning)"
+    ]
+  },
+  {
+    "name": "PGI",
+    "sector": "12",
+    "latitude": 30.7634,
+    "longitude": 76.7745,
+    "isResolvedOffline": true,
+    "routes": [
+      "23A (going)",
+      "23A (returning)",
+      "551 (going)",
+      "551 (returning)",
+      "1 (going)",
+      "1 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 22C (UP/DOWN)",
+    "sector": "22",
+    "latitude": 30.733,
+    "longitude": 76.777,
+    "isResolvedOffline": true,
+    "routes": [
+      "23A (going)",
+      "23A (returning)",
+      "38AB (going)",
+      "38AB (returning)",
+      "551 (going)",
+      "551 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 43C",
+    "sector": "43",
+    "latitude": 30.7208,
+    "longitude": 76.7451,
+    "isResolvedOffline": true,
+    "routes": [
+      "23A (going)",
+      "38AB (going)",
+      "38AB (returning)",
+      "551 (returning)",
+      "14 (going)",
+      "30 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 21 Market",
+    "sector": "21",
+    "latitude": 30.728,
+    "longitude": 76.785,
+    "isResolvedOffline": true,
+    "routes": [
+      "7 (going)",
+      "7 (returning)",
+      "20 (going)",
+      "20 (returning)",
+      "30 (going)",
+      "30 (returning)"
+    ]
+  },
+  {
+    "name": "CTU Workshop",
+    "sector": "Industrial Area Phase 1",
+    "latitude": 30.7115,
+    "longitude": 76.8185,
+    "isResolvedOffline": true,
+    "routes": [
+      "10 (going)",
+      "10 (returning)",
+      "11 (going)",
+      "11 (returning)",
+      "1 (going)",
+      "1 (returning)"
+    ]
+  },
+  {
+    "name": "Railway Station (Chandigarh)",
+    "sector": "Railway Station",
+    "latitude": 30.7081,
+    "longitude": 76.8207,
+    "isResolvedOffline": true,
+    "routes": [
+      "10 (going)",
+      "10 (returning)",
+      "11 (going)",
+      "11 (returning)",
+      "1 (going)",
+      "1 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 22/23",
+    "sector": "22",
+    "latitude": 30.736,
+    "longitude": 76.773,
+    "isResolvedOffline": true,
+    "routes": [
+      "216 (going)",
+      "7 (going)",
+      "7 (returning)",
+      "14 (going)",
+      "30 (returning)"
+    ]
+  },
+  {
+    "name": "Kalagram Down",
+    "sector": "Manimajra",
+    "latitude": 30.7231,
+    "longitude": 76.8354,
+    "isResolvedOffline": false,
+    "routes": [
+      "71 (returning)",
+      "10 (going)",
+      "1 (returning)",
+      "30 (going)",
+      "30 (returning)"
+    ]
+  },
+  {
+    "name": "Kharar",
+    "sector": "Kharar",
+    "latitude": 30.7491,
+    "longitude": 76.643,
+    "isResolvedOffline": true,
+    "routes": [
+      "35B (going)",
+      "35B (returning)",
+      "20 (going)",
+      "20 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 23/22",
+    "sector": "22/23",
+    "latitude": 30.736,
+    "longitude": 76.779,
+    "isResolvedOffline": true,
+    "routes": [
+      "35B (going)",
+      "216 (returning)",
+      "14 (returning)",
+      "30 (going)"
+    ]
+  },
+  {
+    "name": "Sector 34A/35B JW Marriot",
+    "sector": "35",
+    "latitude": 30.723,
+    "longitude": 76.771,
+    "isResolvedOffline": true,
+    "routes": [
+      "23A (going)",
+      "38AB (going)",
+      "551 (returning)",
+      "14 (going)"
+    ]
+  },
+  {
+    "name": "Sector 34/35",
+    "sector": "34",
+    "latitude": 30.721,
+    "longitude": 76.771,
+    "isResolvedOffline": true,
+    "routes": [
+      "23A (going)",
+      "38AB (returning)",
+      "551 (returning)",
+      "14 (going)"
+    ]
+  },
+  {
+    "name": "Sector 34D/35C",
+    "sector": "35",
+    "latitude": 30.719,
+    "longitude": 76.767,
+    "isResolvedOffline": true,
+    "routes": [
+      "23A (going)",
+      "38AB (going)",
+      "551 (returning)",
+      "14 (going)"
+    ]
+  },
+  {
+    "name": "Sector 44/43",
+    "sector": "44",
+    "latitude": 30.7154,
+    "longitude": 76.75,
+    "isResolvedOffline": true,
+    "routes": [
+      "23A (going)",
+      "38AB (returning)",
+      "551 (returning)",
+      "14 (going)"
+    ]
+  },
+  {
+    "name": "Sector 43/44",
+    "sector": "43",
+    "latitude": 30.7154,
+    "longitude": 76.75,
+    "isResolvedOffline": true,
+    "routes": [
+      "23A (returning)",
+      "38AB (going)",
+      "551 (going)",
+      "14 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 35C/34D",
+    "sector": "35",
+    "latitude": 30.724,
+    "longitude": 76.767,
+    "isResolvedOffline": true,
+    "routes": [
+      "23A (returning)",
+      "38AB (returning)",
+      "551 (going)",
+      "14 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 35B/34A JW Marriot",
+    "sector": "35",
+    "latitude": 30.724,
+    "longitude": 76.767,
+    "isResolvedOffline": true,
+    "routes": [
+      "23A (returning)",
+      "38AB (returning)",
+      "551 (going)",
+      "14 (returning)"
+    ]
+  },
+  {
+    "name": "Sohana",
+    "sector": "Sohana",
+    "latitude": 30.6865,
+    "longitude": 76.7118,
+    "isResolvedOffline": true,
+    "routes": [
+      "38AB (going)",
+      "38AB (returning)",
+      "20 (going)",
+      "20 (returning)"
+    ]
+  },
+  {
+    "name": "Mata Mansa Devi",
+    "sector": "Mansa Devi",
+    "latitude": 30.7441,
+    "longitude": 76.8489,
+    "isResolvedOffline": true,
+    "routes": [
+      "71 (going)",
+      "71 (returning)",
+      "14 (going)",
+      "14 (returning)"
+    ]
+  },
+  {
+    "name": "Railway Crossing Towards Manimajra",
+    "sector": "Manimajra",
+    "latitude": 30.7258,
+    "longitude": 76.8456,
+    "isResolvedOffline": true,
+    "routes": [
+      "71 (returning)",
+      "10 (going)",
+      "1 (returning)",
+      "30 (going)"
+    ]
+  },
+  {
+    "name": "Ram Darbar",
+    "sector": "Ram Darbar",
+    "latitude": 30.6912,
+    "longitude": 76.7901,
+    "isResolvedOffline": true,
+    "routes": [
+      "7 (going)",
+      "7 (returning)",
+      "10 (going)",
+      "10 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 20 Market",
+    "sector": "20",
+    "latitude": 30.724,
+    "longitude": 76.795,
+    "isResolvedOffline": true,
+    "routes": [
+      "7 (going)",
+      "7 (returning)",
+      "30 (going)",
+      "30 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 25 near Dental College",
+    "sector": "25",
+    "latitude": 30.752,
+    "longitude": 76.755,
+    "isResolvedOffline": true,
+    "routes": [
+      "7 (going)",
+      "7 (returning)",
+      "1 (going)",
+      "1 (returning)"
+    ]
+  },
+  {
+    "name": "New Maloya Colony",
+    "sector": "Maloya",
+    "latitude": 30.7385,
+    "longitude": 76.7214,
+    "isResolvedOffline": true,
+    "routes": [
+      "7 (going)",
+      "7 (returning)",
+      "1 (going)",
+      "1 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 42/43",
+    "sector": "42/43",
+    "latitude": 30.724,
+    "longitude": 76.753,
+    "isResolvedOffline": true,
+    "routes": [
+      "35B (going)",
+      "216 (returning)",
+      "30 (going)"
+    ]
+  },
+  {
+    "name": "Attawa Chowk towards Kissan Bhawan",
+    "sector": "35/36/42/43",
+    "latitude": 30.727,
+    "longitude": 76.759,
+    "isResolvedOffline": false,
+    "routes": [
+      "35B (going)",
+      "216 (returning)",
+      "30 (going)"
+    ]
+  },
+  {
+    "name": "Sector 36/35 Flower Market",
+    "sector": "35",
+    "latitude": 30.729,
+    "longitude": 76.764,
+    "isResolvedOffline": true,
+    "routes": [
+      "35B (going)",
+      "216 (returning)",
+      "30 (going)"
+    ]
+  },
+  {
+    "name": "Sector 36/35 Kissan Bhawan",
+    "sector": "35",
+    "latitude": 30.731,
+    "longitude": 76.768,
+    "isResolvedOffline": true,
+    "routes": [
+      "35B (going)",
+      "216 (returning)",
+      "30 (going)"
+    ]
+  },
+  {
+    "name": "Sector 35/36 Kissan Bhawan",
+    "sector": "35",
+    "latitude": 30.731,
+    "longitude": 76.768,
+    "isResolvedOffline": true,
+    "routes": [
+      "35B (returning)",
+      "216 (going)",
+      "30 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 35/36 Flower Market",
+    "sector": "35",
+    "latitude": 30.729,
+    "longitude": 76.764,
+    "isResolvedOffline": true,
+    "routes": [
+      "35B (returning)",
+      "216 (going)",
+      "30 (returning)"
+    ]
+  },
+  {
+    "name": "Attawa Chowk towards 43",
+    "sector": "35/36/42/43",
+    "latitude": 30.727,
+    "longitude": 76.759,
+    "isResolvedOffline": false,
+    "routes": [
+      "35B (returning)",
+      "216 (going)",
+      "30 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 17/16",
+    "sector": "17",
+    "latitude": 30.7424,
+    "longitude": 76.7843,
+    "isResolvedOffline": true,
+    "routes": [
+      "23A (going)",
+      "551 (returning)",
+      "1 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 43C/44",
+    "sector": "43",
+    "latitude": 30.7208,
+    "longitude": 76.7451,
+    "isResolvedOffline": true,
+    "routes": [
+      "23A (returning)",
+      "14 (returning)",
+      "30 (going)"
+    ]
+  },
+  {
+    "name": "Sector 35/34",
+    "sector": "35",
+    "latitude": 30.721,
+    "longitude": 76.771,
+    "isResolvedOffline": true,
+    "routes": [
+      "23A (returning)",
+      "38AB (going)",
+      "551 (going)"
+    ]
+  },
+  {
+    "name": "Sector 16/17",
+    "sector": "16",
+    "latitude": 30.7424,
+    "longitude": 76.7843,
+    "isResolvedOffline": true,
+    "routes": [
+      "23A (returning)",
+      "551 (going)",
+      "1 (going)"
+    ]
+  },
+  {
+    "name": "Kalagram Up",
+    "sector": "Manimajra",
+    "latitude": 30.7231,
+    "longitude": 76.8354,
+    "isResolvedOffline": false,
+    "routes": [
+      "71 (going)",
+      "10 (returning)",
+      "1 (going)"
+    ]
+  },
+  {
+    "name": "Transport Chowk (Up)",
+    "sector": "26",
+    "latitude": 30.722,
+    "longitude": 76.818,
+    "isResolvedOffline": false,
+    "routes": [
+      "71 (going)",
+      "71 (returning)",
+      "30 (going)"
+    ]
+  },
+  {
+    "name": "Sector 28/26 Grain Market",
+    "sector": "28",
+    "latitude": 30.72,
+    "longitude": 76.8155,
+    "isResolvedOffline": true,
+    "routes": [
+      "71 (going)",
+      "11 (going)",
+      "30 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 18/17",
+    "sector": "17/18",
+    "latitude": 30.7374,
+    "longitude": 76.7898,
+    "isResolvedOffline": true,
+    "routes": [
+      "71 (going)",
+      "14 (going)",
+      "1 (going)"
+    ]
+  },
+  {
+    "name": "Sector 17/18",
+    "sector": "17/18",
+    "latitude": 30.7374,
+    "longitude": 76.7898,
+    "isResolvedOffline": true,
+    "routes": [
+      "71 (returning)",
+      "14 (returning)",
+      "1 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 26/28 Grain Market",
+    "sector": "26",
+    "latitude": 30.72,
+    "longitude": 76.8155,
+    "isResolvedOffline": true,
+    "routes": [
+      "71 (returning)",
+      "11 (returning)",
+      "30 (going)"
+    ]
+  },
+  {
+    "name": "Sector 24/25",
+    "sector": "24",
+    "latitude": 30.749,
+    "longitude": 76.7585,
+    "isResolvedOffline": true,
+    "routes": [
+      "7 (going)",
+      "7 (returning)",
+      "1 (going)"
+    ]
+  },
+  {
+    "name": "Sector 38/25 Light Point",
+    "sector": "38",
+    "latitude": 30.747,
+    "longitude": 76.75,
+    "isResolvedOffline": true,
+    "routes": [
+      "7 (going)",
+      "7 (returning)",
+      "1 (going)"
+    ]
+  },
+  {
+    "name": "Housing Board Chowk Towards Panchkula",
+    "sector": "Housing Board",
+    "latitude": 30.7225,
+    "longitude": 76.8398,
+    "isResolvedOffline": true,
+    "routes": [
+      "10 (going)",
+      "1 (returning)",
+      "30 (going)"
+    ]
+  },
+  {
+    "name": "Housing Board Chowk Towards ISBT 43",
+    "sector": "Housing Board",
+    "latitude": 30.7225,
+    "longitude": 76.8398,
+    "isResolvedOffline": true,
+    "routes": [
+      "10 (returning)",
+      "1 (going)",
+      "30 (returning)"
+    ]
+  },
+  {
+    "name": "Industrial Area Phase -1 / Sector 28",
+    "sector": "28",
+    "latitude": 30.714,
+    "longitude": 76.815,
+    "isResolvedOffline": true,
+    "routes": [
+      "11 (going)",
+      "11 (returning)",
+      "1 (returning)"
+    ]
+  },
+  {
+    "name": "Kila Chungi",
+    "sector": "Kharar",
+    "latitude": 30.7472,
+    "longitude": 76.6486,
+    "isResolvedOffline": true,
+    "routes": [
+      "35B (going)",
+      "35B (returning)"
+    ]
+  },
+  {
+    "name": "Bansawali Chungi",
+    "sector": "Kharar",
+    "latitude": 30.7444,
+    "longitude": 76.6544,
+    "isResolvedOffline": true,
+    "routes": [
+      "35B (going)",
+      "35B (returning)"
+    ]
+  },
+  {
+    "name": "Mundi Kharar/Gillco",
+    "sector": "Mundi Kharar",
+    "latitude": 30.7431,
+    "longitude": 76.6624,
+    "isResolvedOffline": true,
+    "routes": [
+      "35B (going)",
+      "35B (returning)"
+    ]
+  },
+  {
+    "name": "Desumajra/Nijjar chowk",
+    "sector": "Desumajra",
+    "latitude": 30.7415,
+    "longitude": 76.6711,
+    "isResolvedOffline": true,
+    "routes": [
+      "35B (going)",
+      "35B (returning)"
+    ]
+  },
+  {
+    "name": "KFC",
+    "sector": "Desumajra",
+    "latitude": 30.738,
+    "longitude": 76.68,
+    "isResolvedOffline": false,
+    "routes": [
+      "35B (going)",
+      "35B (returning)"
+    ]
+  },
+  {
+    "name": "Balongi",
+    "sector": "Balongi",
+    "latitude": 30.726,
+    "longitude": 76.702,
+    "isResolvedOffline": true,
+    "routes": [
+      "35B (going)",
+      "35B (returning)"
+    ]
+  },
+  {
+    "name": "ISBT Mohali",
+    "sector": "Phase 6 Mohali",
+    "latitude": 30.723,
+    "longitude": 76.712,
+    "isResolvedOffline": true,
+    "routes": [
+      "35B (going)",
+      "35B (returning)"
+    ]
+  },
+  {
+    "name": "Phase 6 - 35",
+    "sector": "Phase 6 Mohali",
+    "latitude": 30.7225,
+    "longitude": 76.715,
+    "isResolvedOffline": false,
+    "routes": [
+      "35B (going)",
+      "35B (returning)"
+    ]
+  },
+  {
+    "name": "Sector 55 Phase 1 (35)",
+    "sector": "Phase 1 Mohali",
+    "latitude": 30.717,
+    "longitude": 76.726,
+    "isResolvedOffline": true,
+    "routes": [
+      "35B (going)",
+      "35B (returning)"
+    ]
+  },
+  {
+    "name": "Phase-2 Bassi Theatre",
+    "sector": "Phase 2 Mohali",
+    "latitude": 30.7175,
+    "longitude": 76.732,
+    "isResolvedOffline": true,
+    "routes": [
+      "35B (going)",
+      "35B (returning)"
+    ]
+  },
+  {
+    "name": "Furniture Chowk (UT Border)",
+    "sector": "UT Border",
+    "latitude": 30.718,
+    "longitude": 76.741,
+    "isResolvedOffline": true,
+    "routes": [
+      "35B (going)",
+      "35B (returning)"
+    ]
+  },
+  {
+    "name": "Sector 35/22",
+    "sector": "22/35",
+    "latitude": 30.733,
+    "longitude": 76.773,
+    "isResolvedOffline": true,
+    "routes": [
+      "35B (returning)",
+      "14 (returning)"
+    ]
+  },
+  {
+    "name": "Dera Bassi",
+    "sector": "Dera Bassi",
+    "latitude": 30.5843,
+    "longitude": 76.8436,
+    "isResolvedOffline": true,
+    "routes": [
+      "216 (going)",
+      "216 (returning)"
+    ]
+  },
+  {
+    "name": "Zirakpur (Up)",
+    "sector": null,
+    "latitude": 30.7366,
+    "longitude": 76.7828,
+    "isResolvedOffline": false,
+    "routes": [
+      "216 (going)",
+      "216 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 43/42",
+    "sector": "43",
+    "latitude": 30.7214,
+    "longitude": 76.752,
+    "isResolvedOffline": true,
+    "routes": [
+      "216 (going)",
+      "30 (returning)"
+    ]
+  },
+  {
+    "name": "Tribune Chowk / Industrial Phase 1/2",
+    "sector": "29/31",
+    "latitude": 30.7088,
+    "longitude": 76.7852,
+    "isResolvedOffline": true,
+    "routes": [
+      "216 (returning)",
+      "10 (going)"
+    ]
+  },
+  {
+    "name": "Khuda Alisher",
+    "sector": "Khuda Alisher",
+    "latitude": 30.778,
+    "longitude": 76.789,
+    "isResolvedOffline": true,
+    "routes": [
+      "23A (going)",
+      "23A (returning)"
+    ]
+  },
+  {
+    "name": "Naya Gaon",
+    "sector": "Naya Gaon",
+    "latitude": 30.781,
+    "longitude": 76.794,
+    "isResolvedOffline": true,
+    "routes": [
+      "23A (going)",
+      "23A (returning)"
+    ]
+  },
+  {
+    "name": "Punjab Engineering College (PEC)",
+    "sector": null,
+    "latitude": 30.738,
+    "longitude": 76.7793,
+    "isResolvedOffline": false,
+    "routes": [
+      "23A (going)",
+      "23A (returning)"
+    ]
+  },
+  {
+    "name": "New OPD (Up)",
+    "sector": "12",
+    "latitude": 30.765,
+    "longitude": 76.775,
+    "isResolvedOffline": false,
+    "routes": [
+      "23A (going)",
+      "551 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 10/16 General Hospital",
+    "sector": "10",
+    "latitude": 30.7475,
+    "longitude": 76.784,
+    "isResolvedOffline": true,
+    "routes": [
+      "23A (going)",
+      "551 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 16/10 General Hospital",
+    "sector": "16",
+    "latitude": 30.7475,
+    "longitude": 76.784,
+    "isResolvedOffline": true,
+    "routes": [
+      "23A (returning)",
+      "551 (going)"
+    ]
+  },
+  {
+    "name": "New OPD (Down)",
+    "sector": "12",
+    "latitude": 30.765,
+    "longitude": 76.775,
+    "isResolvedOffline": false,
+    "routes": [
+      "23A (returning)",
+      "551 (going)"
+    ]
+  },
+  {
+    "name": "New Airport",
+    "sector": "Airport",
+    "latitude": 30.673,
+    "longitude": 76.788,
+    "isResolvedOffline": true,
+    "routes": [
+      "38AB (going)",
+      "38AB (returning)"
+    ]
+  },
+  {
+    "name": "Jhurheri",
+    "sector": "Airport",
+    "latitude": 30.665,
+    "longitude": 76.791,
+    "isResolvedOffline": false,
+    "routes": [
+      "38AB (going)",
+      "38AB (returning)"
+    ]
+  },
+  {
+    "name": "Shafipur Overbridge",
+    "sector": null,
+    "latitude": 30.7296,
+    "longitude": 76.7845,
+    "isResolvedOffline": false,
+    "routes": [
+      "38AB (going)",
+      "38AB (returning)"
+    ]
+  },
+  {
+    "name": "New Airport Chowk- Mohali (Up)",
+    "sector": "Airport",
+    "latitude": 30.668,
+    "longitude": 76.781,
+    "isResolvedOffline": false,
+    "routes": [
+      "38AB (going)",
+      "38AB (returning)"
+    ]
+  },
+  {
+    "name": "Sector 82/66 Aero City",
+    "sector": "82",
+    "latitude": 30.6538,
+    "longitude": 76.7685,
+    "isResolvedOffline": true,
+    "routes": [
+      "38AB (going)",
+      "38AB (returning)"
+    ]
+  },
+  {
+    "name": "Sector 69/70",
+    "sector": "69/70",
+    "latitude": 30.697,
+    "longitude": 76.708,
+    "isResolvedOffline": true,
+    "routes": [
+      "38AB (going)",
+      "20 (going)"
+    ]
+  },
+  {
+    "name": "Sector 62/61",
+    "sector": "62",
+    "latitude": 30.707,
+    "longitude": 76.7245,
+    "isResolvedOffline": true,
+    "routes": [
+      "38AB (going)",
+      "20 (going)"
+    ]
+  },
+  {
+    "name": "YPS Chowk (Up)",
+    "sector": "Phase 7/8",
+    "latitude": 30.711,
+    "longitude": 76.726,
+    "isResolvedOffline": false,
+    "routes": [
+      "38AB (going)",
+      "20 (going)"
+    ]
+  },
+  {
+    "name": "Sector 52/51",
+    "sector": "52",
+    "latitude": 30.707,
+    "longitude": 76.7435,
+    "isResolvedOffline": true,
+    "routes": [
+      "38AB (going)",
+      "20 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 51/52",
+    "sector": "51",
+    "latitude": 30.707,
+    "longitude": 76.7435,
+    "isResolvedOffline": true,
+    "routes": [
+      "38AB (returning)",
+      "20 (going)"
+    ]
+  },
+  {
+    "name": "YPS Chowk (Down)",
+    "sector": "Phase 7/8",
+    "latitude": 30.711,
+    "longitude": 76.726,
+    "isResolvedOffline": false,
+    "routes": [
+      "38AB (returning)",
+      "20 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 61/62",
+    "sector": "61",
+    "latitude": 30.707,
+    "longitude": 76.7245,
+    "isResolvedOffline": true,
+    "routes": [
+      "38AB (returning)",
+      "20 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 70/69",
+    "sector": "70/69",
+    "latitude": 30.697,
+    "longitude": 76.708,
+    "isResolvedOffline": true,
+    "routes": [
+      "38AB (returning)",
+      "20 (returning)"
+    ]
+  },
+  {
+    "name": "Kaimbwala 1",
+    "sector": "Kaimbwala",
+    "latitude": 30.765,
+    "longitude": 76.815,
+    "isResolvedOffline": false,
+    "routes": [
+      "71 (going)",
+      "71 (returning)"
+    ]
+  },
+  {
+    "name": "Saketri",
+    "sector": "Panchkula",
+    "latitude": 30.75,
+    "longitude": 76.845,
+    "isResolvedOffline": false,
+    "routes": [
+      "71 (going)",
+      "71 (returning)"
+    ]
+  },
+  {
+    "name": "Mani Majra Town",
+    "sector": "Manimajra",
+    "latitude": 30.721,
+    "longitude": 76.848,
+    "isResolvedOffline": false,
+    "routes": [
+      "71 (going)",
+      "71 (returning)"
+    ]
+  },
+  {
+    "name": "Modern Complex",
+    "sector": "Manimajra",
+    "latitude": 30.726,
+    "longitude": 76.842,
+    "isResolvedOffline": false,
+    "routes": [
+      "71 (going)",
+      "71 (returning)"
+    ]
+  },
+  {
+    "name": "Railway Crossing Towards 28 Grain Market",
+    "sector": "28",
+    "latitude": 30.718,
+    "longitude": 76.815,
+    "isResolvedOffline": false,
+    "routes": [
+      "71 (going)",
+      "30 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 27 Market (Up)",
+    "sector": "27",
+    "latitude": 30.72,
+    "longitude": 76.808,
+    "isResolvedOffline": true,
+    "routes": [
+      "71 (going)",
+      "1 (going)"
+    ]
+  },
+  {
+    "name": "Sector 19 Market (Up)",
+    "sector": "19",
+    "latitude": 30.73,
+    "longitude": 76.801,
+    "isResolvedOffline": true,
+    "routes": [
+      "71 (going)",
+      "1 (going)"
+    ]
+  },
+  {
+    "name": "Sector 18 Market (Up)",
+    "sector": "18",
+    "latitude": 30.735,
+    "longitude": 76.793,
+    "isResolvedOffline": true,
+    "routes": [
+      "71 (going)",
+      "1 (going)"
+    ]
+  },
+  {
+    "name": "Sector 18 Market (Down)",
+    "sector": "18",
+    "latitude": 30.735,
+    "longitude": 76.793,
+    "isResolvedOffline": true,
+    "routes": [
+      "71 (returning)",
+      "1 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 19 Market (Down)",
+    "sector": "19",
+    "latitude": 30.73,
+    "longitude": 76.801,
+    "isResolvedOffline": true,
+    "routes": [
+      "71 (returning)",
+      "1 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 27 Market (Down)",
+    "sector": "27",
+    "latitude": 30.72,
+    "longitude": 76.808,
+    "isResolvedOffline": true,
+    "routes": [
+      "71 (returning)",
+      "1 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 11C/10",
+    "sector": "11",
+    "latitude": 30.756,
+    "longitude": 76.778,
+    "isResolvedOffline": true,
+    "routes": [
+      "551 (going)",
+      "551 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 10D/11",
+    "sector": "10",
+    "latitude": 30.75,
+    "longitude": 76.786,
+    "isResolvedOffline": true,
+    "routes": [
+      "551 (going)",
+      "551 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 11B/10",
+    "sector": "11",
+    "latitude": 30.756,
+    "longitude": 76.778,
+    "isResolvedOffline": true,
+    "routes": [
+      "551 (going)",
+      "551 (returning)"
+    ]
+  },
+  {
+    "name": "Industrial Area Phase 2",
+    "sector": "Ind Area 2",
+    "latitude": 30.703,
+    "longitude": 76.783,
+    "isResolvedOffline": false,
+    "routes": [
+      "7 (going)",
+      "7 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 47 Market - Up",
+    "sector": "47",
+    "latitude": 30.692,
+    "longitude": 76.776,
+    "isResolvedOffline": true,
+    "routes": [
+      "7 (going)",
+      "10 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 32/31 S.D. College",
+    "sector": "32",
+    "latitude": 30.703,
+    "longitude": 76.795,
+    "isResolvedOffline": true,
+    "routes": [
+      "7 (going)",
+      "7 (returning)"
+    ]
+  },
+  {
+    "name": "G.M.C.H. 32",
+    "sector": "32",
+    "latitude": 30.709,
+    "longitude": 76.779,
+    "isResolvedOffline": false,
+    "routes": [
+      "7 (going)",
+      "7 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 30 Market",
+    "sector": "30",
+    "latitude": 30.712,
+    "longitude": 76.798,
+    "isResolvedOffline": true,
+    "routes": [
+      "7 (going)",
+      "7 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 23 Market",
+    "sector": "23",
+    "latitude": 30.739,
+    "longitude": 76.769,
+    "isResolvedOffline": true,
+    "routes": [
+      "7 (going)",
+      "7 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 24 Market",
+    "sector": "24",
+    "latitude": 30.746,
+    "longitude": 76.762,
+    "isResolvedOffline": true,
+    "routes": [
+      "7 (going)",
+      "7 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 38 West Light Point",
+    "sector": "38",
+    "latitude": 30.742,
+    "longitude": 76.745,
+    "isResolvedOffline": true,
+    "routes": [
+      "7 (going)",
+      "7 (returning)"
+    ]
+  },
+  {
+    "name": "Maloya",
+    "sector": "Maloya",
+    "latitude": 30.7385,
+    "longitude": 76.7214,
+    "isResolvedOffline": true,
+    "routes": [
+      "7 (going)",
+      "7 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 47 Market (Down)",
+    "sector": "47",
+    "latitude": 30.692,
+    "longitude": 76.776,
+    "isResolvedOffline": true,
+    "routes": [
+      "7 (returning)",
+      "10 (going)"
+    ]
+  },
+  {
+    "name": "Sector 44/51 (Colony No. 5)",
+    "sector": "44",
+    "latitude": 30.707,
+    "longitude": 76.751,
+    "isResolvedOffline": true,
+    "routes": [
+      "10 (going)",
+      "20 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 44C Gaushala",
+    "sector": "44",
+    "latitude": 30.71,
+    "longitude": 76.755,
+    "isResolvedOffline": true,
+    "routes": [
+      "10 (going)",
+      "20 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 45 Market",
+    "sector": "45",
+    "latitude": 30.704,
+    "longitude": 76.762,
+    "isResolvedOffline": true,
+    "routes": [
+      "10 (going)",
+      "10 (returning)"
+    ]
+  },
+  {
+    "name": "Poultry Farm",
+    "sector": "Ind Area 1",
+    "latitude": 30.705,
+    "longitude": 76.804,
+    "isResolvedOffline": false,
+    "routes": [
+      "10 (going)",
+      "10 (returning)"
+    ]
+  },
+  {
+    "name": "Colony No. 4",
+    "sector": "Ind Area 1",
+    "latitude": 30.71,
+    "longitude": 76.812,
+    "isResolvedOffline": false,
+    "routes": [
+      "10 (going)",
+      "10 (returning)"
+    ]
+  },
+  {
+    "name": "Railway Crossing towards Railway Station",
+    "sector": "Railway Crossing",
+    "latitude": 30.7075,
+    "longitude": 76.8205,
+    "isResolvedOffline": true,
+    "routes": [
+      "10 (returning)",
+      "1 (going)"
+    ]
+  },
+  {
+    "name": "Sector 45D/44",
+    "sector": "45",
+    "latitude": 30.704,
+    "longitude": 76.762,
+    "isResolvedOffline": true,
+    "routes": [
+      "10 (returning)",
+      "20 (going)"
+    ]
+  },
+  {
+    "name": "Sector 51/44 (Colony No. 5)",
+    "sector": "51",
+    "latitude": 30.707,
+    "longitude": 76.751,
+    "isResolvedOffline": true,
+    "routes": [
+      "10 (returning)",
+      "20 (going)"
+    ]
+  },
+  {
+    "name": "Sector 27/26",
+    "sector": "27",
+    "latitude": 30.723,
+    "longitude": 76.812,
+    "isResolvedOffline": true,
+    "routes": [
+      "11 (going)",
+      "30 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 17/9 K.C (Up)",
+    "sector": "17",
+    "latitude": 30.7424,
+    "longitude": 76.7903,
+    "isResolvedOffline": true,
+    "routes": [
+      "11 (going)",
+      "11 (returning)"
+    ]
+  },
+  {
+    "name": "MLA Flats (Up)",
+    "sector": "3/4",
+    "latitude": 30.755,
+    "longitude": 76.795,
+    "isResolvedOffline": false,
+    "routes": [
+      "11 (going)",
+      "11 (returning)"
+    ]
+  },
+  {
+    "name": "High Court",
+    "sector": "1",
+    "latitude": 30.759,
+    "longitude": 76.806,
+    "isResolvedOffline": true,
+    "routes": [
+      "11 (going)",
+      "11 (returning)"
+    ]
+  },
+  {
+    "name": "Punjab Civil Secretariat",
+    "sector": "1",
+    "latitude": 30.758,
+    "longitude": 76.8,
+    "isResolvedOffline": false,
+    "routes": [
+      "11 (going)",
+      "11 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 26/27",
+    "sector": "26",
+    "latitude": 30.723,
+    "longitude": 76.812,
+    "isResolvedOffline": true,
+    "routes": [
+      "11 (returning)",
+      "30 (going)"
+    ]
+  },
+  {
+    "name": "Mansa Devi Complex",
+    "sector": "Mansa Devi",
+    "latitude": 30.7441,
+    "longitude": 76.8489,
+    "isResolvedOffline": true,
+    "routes": [
+      "14 (going)",
+      "14 (returning)"
+    ]
+  },
+  {
+    "name": "Dolphin Chowk",
+    "sector": "IT Park",
+    "latitude": 30.728,
+    "longitude": 76.835,
+    "isResolvedOffline": false,
+    "routes": [
+      "14 (going)",
+      "14 (returning)"
+    ]
+  },
+  {
+    "name": "BACK SIDE POLICE LINE Sector 26",
+    "sector": "26",
+    "latitude": 30.726,
+    "longitude": 76.816,
+    "isResolvedOffline": true,
+    "routes": [
+      "14 (going)",
+      "14 (returning)"
+    ]
+  },
+  {
+    "name": "Golf Range",
+    "sector": "6",
+    "latitude": 30.742,
+    "longitude": 76.81,
+    "isResolvedOffline": false,
+    "routes": [
+      "14 (going)",
+      "14 (returning)"
+    ]
+  },
+  {
+    "name": "Lake Chowk",
+    "sector": "5/6",
+    "latitude": 30.74,
+    "longitude": 76.808,
+    "isResolvedOffline": false,
+    "routes": [
+      "14 (going)",
+      "14 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 8/5",
+    "sector": "8",
+    "latitude": 30.7455,
+    "longitude": 76.7885,
+    "isResolvedOffline": true,
+    "routes": [
+      "14 (going)",
+      "14 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 17/18 (Govt. Press)",
+    "sector": "17/18",
+    "latitude": 30.7374,
+    "longitude": 76.7898,
+    "isResolvedOffline": true,
+    "routes": [
+      "14 (going)",
+      "14 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 33/34 Labour Chowk",
+    "sector": "33",
+    "latitude": 30.715,
+    "longitude": 76.779,
+    "isResolvedOffline": true,
+    "routes": [
+      "20 (going)",
+      "20 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 45A/44B",
+    "sector": "45",
+    "latitude": 30.704,
+    "longitude": 76.762,
+    "isResolvedOffline": true,
+    "routes": [
+      "20 (going)",
+      "20 (returning)"
+    ]
+  },
+  {
+    "name": "Lakhnaur (DC Office Mohali)",
+    "sector": "76",
+    "latitude": 30.687,
+    "longitude": 76.702,
+    "isResolvedOffline": false,
+    "routes": [
+      "20 (going)",
+      "20 (returning)"
+    ]
+  },
+  {
+    "name": "Lakhnaur",
+    "sector": "76",
+    "latitude": 30.687,
+    "longitude": 76.702,
+    "isResolvedOffline": false,
+    "routes": [
+      "20 (going)",
+      "20 (returning)"
+    ]
+  },
+  {
+    "name": "Chappar Chiri",
+    "sector": "Chappar Chiri",
+    "latitude": 30.702,
+    "longitude": 76.68,
+    "isResolvedOffline": false,
+    "routes": [
+      "20 (going)",
+      "20 (returning)"
+    ]
+  },
+  {
+    "name": "Santemajra",
+    "sector": "Santemajra",
+    "latitude": 30.72,
+    "longitude": 76.65,
+    "isResolvedOffline": false,
+    "routes": [
+      "20 (going)",
+      "20 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 15 Market",
+    "sector": "15",
+    "latitude": 30.752,
+    "longitude": 76.774,
+    "isResolvedOffline": true,
+    "routes": [
+      "1 (going)",
+      "1 (returning)"
+    ]
+  },
+  {
+    "name": "Depot 3 Workshop",
+    "sector": null,
+    "latitude": 30.7421,
+    "longitude": 76.7754,
+    "isResolvedOffline": false,
+    "routes": [
+      "1 (going)",
+      "1 (returning)"
+    ]
+  },
+  {
+    "name": "Daddu Majra Colony",
+    "sector": "38W",
+    "latitude": 30.751,
+    "longitude": 76.738,
+    "isResolvedOffline": false,
+    "routes": [
+      "1 (going)",
+      "1 (returning)"
+    ]
+  },
+  {
+    "name": "Dadu Majra Village",
+    "sector": "38W",
+    "latitude": 30.75,
+    "longitude": 76.735,
+    "isResolvedOffline": false,
+    "routes": [
+      "1 (going)",
+      "1 (returning)"
+    ]
+  },
+  {
+    "name": "Tank Chowk",
+    "sector": null,
+    "latitude": 30.7271,
+    "longitude": 76.775,
+    "isResolvedOffline": false,
+    "routes": [
+      "30 (going)",
+      "30 (returning)"
+    ]
+  },
+  {
+    "name": "Bella Vista",
+    "sector": "Panchkula",
+    "latitude": 30.702,
+    "longitude": 76.845,
+    "isResolvedOffline": false,
+    "routes": [
+      "30 (going)",
+      "30 (returning)"
+    ]
+  },
+  {
+    "name": "Majri Chowk",
+    "sector": "Panchkula",
+    "latitude": 30.698,
+    "longitude": 76.852,
+    "isResolvedOffline": false,
+    "routes": [
+      "30 (going)",
+      "30 (returning)"
+    ]
+  },
+  {
+    "name": "Nada Sahib",
+    "sector": "Panchkula",
+    "latitude": 30.695,
+    "longitude": 76.885,
+    "isResolvedOffline": true,
+    "routes": [
+      "30 (going)",
+      "30 (returning)"
+    ]
+  },
+  {
+    "name": "Daun (Up)",
+    "sector": "Daun",
+    "latitude": 30.735,
+    "longitude": 76.689,
+    "isResolvedOffline": false,
+    "routes": [
+      "35B (going)"
+    ]
+  },
+  {
+    "name": "Sector 42/53",
+    "sector": "42/53",
+    "latitude": 30.7185,
+    "longitude": 76.744,
+    "isResolvedOffline": true,
+    "routes": [
+      "35B (going)"
+    ]
+  },
+  {
+    "name": "Sector 22/35",
+    "sector": "22/35",
+    "latitude": 30.733,
+    "longitude": 76.773,
+    "isResolvedOffline": true,
+    "routes": [
+      "35B (going)"
+    ]
+  },
+  {
+    "name": "Sector 43/42-4",
+    "sector": "43",
+    "latitude": 30.7214,
+    "longitude": 76.752,
+    "isResolvedOffline": true,
+    "routes": [
+      "35B (returning)"
+    ]
+  },
+  {
+    "name": "Sector 53/42",
+    "sector": "42/53",
+    "latitude": 30.7185,
+    "longitude": 76.744,
+    "isResolvedOffline": true,
+    "routes": [
+      "35B (returning)"
+    ]
+  },
+  {
+    "name": "Daun (Down)",
+    "sector": "Daun",
+    "latitude": 30.735,
+    "longitude": 76.689,
+    "isResolvedOffline": false,
+    "routes": [
+      "35B (returning)"
+    ]
+  },
+  {
+    "name": "Bhankarpur (Up)",
+    "sector": "Dera Bassi",
+    "latitude": 30.605,
+    "longitude": 76.832,
+    "isResolvedOffline": false,
+    "routes": [
+      "216 (going)"
+    ]
+  },
+  {
+    "name": "Singhpura (UP)",
+    "sector": null,
+    "latitude": 30.7383,
+    "longitude": 76.7699,
+    "isResolvedOffline": false,
+    "routes": [
+      "216 (going)"
+    ]
+  },
+  {
+    "name": "Raipur Khurd",
+    "sector": null,
+    "latitude": 30.7416,
+    "longitude": 76.7823,
+    "isResolvedOffline": false,
+    "routes": [
+      "216 (going)"
+    ]
+  },
+  {
+    "name": "Hallo Majra (UP)",
+    "sector": null,
+    "latitude": 30.7327,
+    "longitude": 76.7869,
+    "isResolvedOffline": false,
+    "routes": [
+      "216 (going)"
+    ]
+  },
+  {
+    "name": "Industrial Area Phase 2/Phase 1",
+    "sector": "Ind Area",
+    "latitude": 30.708,
+    "longitude": 76.795,
+    "isResolvedOffline": false,
+    "routes": [
+      "216 (going)"
+    ]
+  },
+  {
+    "name": "Sector 31/29 (Tribune)",
+    "sector": "31",
+    "latitude": 30.703,
+    "longitude": 76.8025,
+    "isResolvedOffline": true,
+    "routes": [
+      "216 (going)"
+    ]
+  },
+  {
+    "name": "Sector 32/30 Hospital",
+    "sector": "32",
+    "latitude": 30.709,
+    "longitude": 76.7945,
+    "isResolvedOffline": true,
+    "routes": [
+      "216 (going)"
+    ]
+  },
+  {
+    "name": "Sector 32/30D",
+    "sector": "32",
+    "latitude": 30.709,
+    "longitude": 76.7945,
+    "isResolvedOffline": true,
+    "routes": [
+      "216 (going)"
+    ]
+  },
+  {
+    "name": "Sector 33/20",
+    "sector": "33",
+    "latitude": 30.718,
+    "longitude": 76.789,
+    "isResolvedOffline": true,
+    "routes": [
+      "216 (going)"
+    ]
+  },
+  {
+    "name": "Sector 34/21",
+    "sector": "34",
+    "latitude": 30.723,
+    "longitude": 76.78,
+    "isResolvedOffline": true,
+    "routes": [
+      "216 (going)"
+    ]
+  },
+  {
+    "name": "Sector 21/34",
+    "sector": "21",
+    "latitude": 30.723,
+    "longitude": 76.78,
+    "isResolvedOffline": true,
+    "routes": [
+      "216 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 20/33",
+    "sector": "20",
+    "latitude": 30.718,
+    "longitude": 76.789,
+    "isResolvedOffline": true,
+    "routes": [
+      "216 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 30D/32",
+    "sector": "30",
+    "latitude": 30.712,
+    "longitude": 76.798,
+    "isResolvedOffline": true,
+    "routes": [
+      "216 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 30/32 Hospital",
+    "sector": "30",
+    "latitude": 30.709,
+    "longitude": 76.7945,
+    "isResolvedOffline": true,
+    "routes": [
+      "216 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 29/31 (Tribune)",
+    "sector": "29",
+    "latitude": 30.703,
+    "longitude": 76.8025,
+    "isResolvedOffline": true,
+    "routes": [
+      "216 (returning)"
+    ]
+  },
+  {
+    "name": "Hallo Majra (Down)",
+    "sector": "Hallo Majra",
+    "latitude": 30.702,
+    "longitude": 76.792,
+    "isResolvedOffline": false,
+    "routes": [
+      "216 (returning)"
+    ]
+  },
+  {
+    "name": "Raipur Khurd Towards Zirakpur",
+    "sector": null,
+    "latitude": 30.7302,
+    "longitude": 76.7781,
+    "isResolvedOffline": false,
+    "routes": [
+      "216 (returning)"
+    ]
+  },
+  {
+    "name": "Singhpura (Down)",
+    "sector": null,
+    "latitude": 30.7349,
+    "longitude": 76.7764,
+    "isResolvedOffline": false,
+    "routes": [
+      "216 (returning)"
+    ]
+  },
+  {
+    "name": "Bhankarpur (Down)",
+    "sector": "Dera Bassi",
+    "latitude": 30.605,
+    "longitude": 76.832,
+    "isResolvedOffline": false,
+    "routes": [
+      "216 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 2/12",
+    "sector": "2",
+    "latitude": 30.7605,
+    "longitude": 76.7855,
+    "isResolvedOffline": true,
+    "routes": [
+      "23A (going)"
+    ]
+  },
+  {
+    "name": "Sector 11/15",
+    "sector": "11",
+    "latitude": 30.754,
+    "longitude": 76.776,
+    "isResolvedOffline": true,
+    "routes": [
+      "23A (going)"
+    ]
+  },
+  {
+    "name": "10/16 ART GALLERY",
+    "sector": null,
+    "latitude": 30.7367,
+    "longitude": 76.7828,
+    "isResolvedOffline": false,
+    "routes": [
+      "23A (going)"
+    ]
+  },
+  {
+    "name": "16/10 ROSE GARDEN",
+    "sector": null,
+    "latitude": 30.724,
+    "longitude": 76.7729,
+    "isResolvedOffline": false,
+    "routes": [
+      "23A (returning)"
+    ]
+  },
+  {
+    "name": "Sector 15/11",
+    "sector": "15",
+    "latitude": 30.754,
+    "longitude": 76.776,
+    "isResolvedOffline": true,
+    "routes": [
+      "23A (returning)"
+    ]
+  },
+  {
+    "name": "Sector 12/21",
+    "sector": "12",
+    "latitude": 30.7455,
+    "longitude": 76.7795,
+    "isResolvedOffline": true,
+    "routes": [
+      "23A (returning)"
+    ]
+  },
+  {
+    "name": "Sector 82/66A",
+    "sector": "82",
+    "latitude": 30.6538,
+    "longitude": 76.7685,
+    "isResolvedOffline": true,
+    "routes": [
+      "38AB (going)"
+    ]
+  },
+  {
+    "name": "Sector 81/66 (IISER)",
+    "sector": "81",
+    "latitude": 30.6488,
+    "longitude": 76.7775,
+    "isResolvedOffline": true,
+    "routes": [
+      "38AB (going)"
+    ]
+  },
+  {
+    "name": "Sector 80/67",
+    "sector": "80/67",
+    "latitude": 30.686,
+    "longitude": 76.721,
+    "isResolvedOffline": true,
+    "routes": [
+      "38AB (going)"
+    ]
+  },
+  {
+    "name": "Sector 79/68",
+    "sector": "79/68",
+    "latitude": 30.686,
+    "longitude": 76.712,
+    "isResolvedOffline": true,
+    "routes": [
+      "38AB (going)"
+    ]
+  },
+  {
+    "name": "Sector 68/79",
+    "sector": "68",
+    "latitude": 30.6778,
+    "longitude": 76.7145,
+    "isResolvedOffline": true,
+    "routes": [
+      "38AB (returning)"
+    ]
+  },
+  {
+    "name": "Sector 67/80",
+    "sector": "67",
+    "latitude": 30.6728,
+    "longitude": 76.7235,
+    "isResolvedOffline": true,
+    "routes": [
+      "38AB (returning)"
+    ]
+  },
+  {
+    "name": "Sector 66/81 (IISER)",
+    "sector": "66",
+    "latitude": 30.6678,
+    "longitude": 76.7325,
+    "isResolvedOffline": true,
+    "routes": [
+      "38AB (returning)"
+    ]
+  },
+  {
+    "name": "Sector 66A/82",
+    "sector": "66",
+    "latitude": 30.6678,
+    "longitude": 76.7325,
+    "isResolvedOffline": true,
+    "routes": [
+      "38AB (returning)"
+    ]
+  },
+  {
+    "name": "Indira Colony Up",
+    "sector": "Manimajra",
+    "latitude": 30.728,
+    "longitude": 76.84,
+    "isResolvedOffline": false,
+    "routes": [
+      "71 (going)"
+    ]
+  },
+  {
+    "name": "Indira Colony Down",
+    "sector": "Manimajra",
+    "latitude": 30.728,
+    "longitude": 76.84,
+    "isResolvedOffline": false,
+    "routes": [
+      "71 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 43/44 near 43 Chowk",
+    "sector": "43",
+    "latitude": 30.7154,
+    "longitude": 76.75,
+    "isResolvedOffline": true,
+    "routes": [
+      "551 (going)"
+    ]
+  },
+  {
+    "name": "Sector 16/17 near Matka Chowk",
+    "sector": "16",
+    "latitude": 30.7424,
+    "longitude": 76.7843,
+    "isResolvedOffline": true,
+    "routes": [
+      "551 (going)"
+    ]
+  },
+  {
+    "name": "Sector 11A/2 PEC",
+    "sector": "11",
+    "latitude": 30.756,
+    "longitude": 76.778,
+    "isResolvedOffline": true,
+    "routes": [
+      "551 (going)"
+    ]
+  },
+  {
+    "name": "Sector 2/11A PEC",
+    "sector": "2",
+    "latitude": 30.757,
+    "longitude": 76.7875,
+    "isResolvedOffline": true,
+    "routes": [
+      "551 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 17/16 near Matka Chowk",
+    "sector": "17",
+    "latitude": 30.7424,
+    "longitude": 76.7843,
+    "isResolvedOffline": true,
+    "routes": [
+      "551 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 47/46",
+    "sector": "47",
+    "latitude": 30.695,
+    "longitude": 76.7725,
+    "isResolvedOffline": true,
+    "routes": [
+      "7 (going)"
+    ]
+  },
+  {
+    "name": "Sector 32/31",
+    "sector": "32",
+    "latitude": 30.703,
+    "longitude": 76.795,
+    "isResolvedOffline": true,
+    "routes": [
+      "7 (going)"
+    ]
+  },
+  {
+    "name": "Sector 30/29",
+    "sector": "30",
+    "latitude": 30.709,
+    "longitude": 76.802,
+    "isResolvedOffline": true,
+    "routes": [
+      "7 (going)"
+    ]
+  },
+  {
+    "name": "Sec-39/Water Works--13 A Towards ISBT 43",
+    "sector": "39",
+    "latitude": 30.748,
+    "longitude": 76.732,
+    "isResolvedOffline": true,
+    "routes": [
+      "7 (going)"
+    ]
+  },
+  {
+    "name": "Maloya Mod/Anaj Mandi Towards Maloya",
+    "sector": "Maloya",
+    "latitude": 30.7385,
+    "longitude": 76.7214,
+    "isResolvedOffline": true,
+    "routes": [
+      "7 (going)"
+    ]
+  },
+  {
+    "name": "Maloya Mod/Anaj Mandi Towards Water Works",
+    "sector": "Maloya",
+    "latitude": 30.7385,
+    "longitude": 76.7214,
+    "isResolvedOffline": true,
+    "routes": [
+      "7 (returning)"
+    ]
+  },
+  {
+    "name": "Sec-39/Water Works--13 C",
+    "sector": "39",
+    "latitude": 30.748,
+    "longitude": 76.732,
+    "isResolvedOffline": false,
+    "routes": [
+      "7 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 29/30",
+    "sector": "29",
+    "latitude": 30.709,
+    "longitude": 76.802,
+    "isResolvedOffline": true,
+    "routes": [
+      "7 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 31/32 Market",
+    "sector": "31",
+    "latitude": 30.703,
+    "longitude": 76.795,
+    "isResolvedOffline": true,
+    "routes": [
+      "7 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 46/47",
+    "sector": "46",
+    "latitude": 30.695,
+    "longitude": 76.7725,
+    "isResolvedOffline": true,
+    "routes": [
+      "7 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 46 Market (Down)",
+    "sector": "46",
+    "latitude": 30.698,
+    "longitude": 76.769,
+    "isResolvedOffline": true,
+    "routes": [
+      "10 (going)"
+    ]
+  },
+  {
+    "name": "Kaali Baari Mandir towards 3BRD",
+    "sector": "47",
+    "latitude": 30.697,
+    "longitude": 76.7867,
+    "isResolvedOffline": false,
+    "routes": [
+      "10 (going)"
+    ]
+  },
+  {
+    "name": "Industrial Area Phase 2 in front Tata Motors",
+    "sector": "Ind Area 2",
+    "latitude": 30.702,
+    "longitude": 76.785,
+    "isResolvedOffline": false,
+    "routes": [
+      "10 (going)"
+    ]
+  },
+  {
+    "name": "Industrial Area Phase 2 near PRTC",
+    "sector": "Ind Area 2",
+    "latitude": 30.704,
+    "longitude": 76.782,
+    "isResolvedOffline": false,
+    "routes": [
+      "10 (returning)"
+    ]
+  },
+  {
+    "name": "Industrial Area Phase 2 near passport office",
+    "sector": "Ind Area 2",
+    "latitude": 30.704,
+    "longitude": 76.782,
+    "isResolvedOffline": false,
+    "routes": [
+      "10 (returning)"
+    ]
+  },
+  {
+    "name": "Kaali Baari Mandir towards 47",
+    "sector": "47",
+    "latitude": 30.697,
+    "longitude": 76.7867,
+    "isResolvedOffline": false,
+    "routes": [
+      "10 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 46 Market (Up)",
+    "sector": "46",
+    "latitude": 30.698,
+    "longitude": 76.769,
+    "isResolvedOffline": true,
+    "routes": [
+      "10 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 19/7",
+    "sector": "19",
+    "latitude": 30.734,
+    "longitude": 76.806,
+    "isResolvedOffline": true,
+    "routes": [
+      "11 (going)"
+    ]
+  },
+  {
+    "name": "Sector 18/8",
+    "sector": "18",
+    "latitude": 30.738,
+    "longitude": 76.7975,
+    "isResolvedOffline": true,
+    "routes": [
+      "11 (going)"
+    ]
+  },
+  {
+    "name": "UT Secretariat Towards High Court",
+    "sector": "9",
+    "latitude": 30.748,
+    "longitude": 76.7869,
+    "isResolvedOffline": false,
+    "routes": [
+      "11 (going)"
+    ]
+  },
+  {
+    "name": "UT Secretariat Towards ISBT 43",
+    "sector": "9",
+    "latitude": 30.748,
+    "longitude": 76.7869,
+    "isResolvedOffline": true,
+    "routes": [
+      "11 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 8/18",
+    "sector": "8",
+    "latitude": 30.738,
+    "longitude": 76.7975,
+    "isResolvedOffline": true,
+    "routes": [
+      "11 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 7/19",
+    "sector": "7",
+    "latitude": 30.734,
+    "longitude": 76.806,
+    "isResolvedOffline": true,
+    "routes": [
+      "11 (returning)"
+    ]
+  },
+  {
+    "name": "IT Park Up",
+    "sector": "IT Park",
+    "latitude": 30.7245,
+    "longitude": 76.8312,
+    "isResolvedOffline": true,
+    "routes": [
+      "14 (going)"
+    ]
+  },
+  {
+    "name": "Kishangarh Up",
+    "sector": "Kishangarh",
+    "latitude": 30.732,
+    "longitude": 76.825,
+    "isResolvedOffline": false,
+    "routes": [
+      "14 (going)"
+    ]
+  },
+  {
+    "name": "Sector 8/9",
+    "sector": "8",
+    "latitude": 30.743,
+    "longitude": 76.798,
+    "isResolvedOffline": true,
+    "routes": [
+      "14 (going)"
+    ]
+  },
+  {
+    "name": "Kishan Bhavan",
+    "sector": "35",
+    "latitude": 30.731,
+    "longitude": 76.768,
+    "isResolvedOffline": false,
+    "routes": [
+      "14 (going)"
+    ]
+  },
+  {
+    "name": "Sector 35/34 Light Point",
+    "sector": "35",
+    "latitude": 30.721,
+    "longitude": 76.771,
+    "isResolvedOffline": true,
+    "routes": [
+      "14 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 9/8",
+    "sector": "9",
+    "latitude": 30.743,
+    "longitude": 76.798,
+    "isResolvedOffline": true,
+    "routes": [
+      "14 (returning)"
+    ]
+  },
+  {
+    "name": "Kishangarh Down",
+    "sector": "Kishangarh",
+    "latitude": 30.732,
+    "longitude": 76.825,
+    "isResolvedOffline": false,
+    "routes": [
+      "14 (returning)"
+    ]
+  },
+  {
+    "name": "IT Park (Down)",
+    "sector": "IT Park",
+    "latitude": 30.7245,
+    "longitude": 76.8312,
+    "isResolvedOffline": true,
+    "routes": [
+      "14 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 20/21",
+    "sector": "20",
+    "latitude": 30.726,
+    "longitude": 76.79,
+    "isResolvedOffline": true,
+    "routes": [
+      "20 (going)"
+    ]
+  },
+  {
+    "name": "Sector 33/34",
+    "sector": "33",
+    "latitude": 30.715,
+    "longitude": 76.779,
+    "isResolvedOffline": true,
+    "routes": [
+      "20 (going)"
+    ]
+  },
+  {
+    "name": "Sector 45/44 Towards ISBT 43",
+    "sector": "43",
+    "latitude": 30.707,
+    "longitude": 76.7585,
+    "isResolvedOffline": true,
+    "routes": [
+      "20 (going)"
+    ]
+  },
+  {
+    "name": "Landran (Down)",
+    "sector": "Landran",
+    "latitude": 30.688,
+    "longitude": 76.666,
+    "isResolvedOffline": false,
+    "routes": [
+      "20 (going)"
+    ]
+  },
+  {
+    "name": "Landran (Up)",
+    "sector": "Landran",
+    "latitude": 30.688,
+    "longitude": 76.666,
+    "isResolvedOffline": false,
+    "routes": [
+      "20 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 44/45",
+    "sector": "44",
+    "latitude": 30.707,
+    "longitude": 76.7585,
+    "isResolvedOffline": true,
+    "routes": [
+      "20 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 34/33",
+    "sector": "34",
+    "latitude": 30.715,
+    "longitude": 76.779,
+    "isResolvedOffline": true,
+    "routes": [
+      "20 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 21/20",
+    "sector": "21",
+    "latitude": 30.726,
+    "longitude": 76.79,
+    "isResolvedOffline": true,
+    "routes": [
+      "20 (returning)"
+    ]
+  },
+  {
+    "name": "Industrial Area Phase-1",
+    "sector": "Ind Area 1",
+    "latitude": 30.71,
+    "longitude": 76.808,
+    "isResolvedOffline": false,
+    "routes": [
+      "1 (going)"
+    ]
+  },
+  {
+    "name": "Sector 28 Market (Up)",
+    "sector": "28",
+    "latitude": 30.714,
+    "longitude": 76.815,
+    "isResolvedOffline": true,
+    "routes": [
+      "1 (going)"
+    ]
+  },
+  {
+    "name": "Sector 16 Market (Up)",
+    "sector": "16",
+    "latitude": 30.745,
+    "longitude": 76.782,
+    "isResolvedOffline": true,
+    "routes": [
+      "1 (going)"
+    ]
+  },
+  {
+    "name": "Sector 15/14",
+    "sector": "15",
+    "latitude": 30.7555,
+    "longitude": 76.771,
+    "isResolvedOffline": true,
+    "routes": [
+      "1 (going)"
+    ]
+  },
+  {
+    "name": "Sector 25/38 Light Point",
+    "sector": "25",
+    "latitude": 30.747,
+    "longitude": 76.75,
+    "isResolvedOffline": true,
+    "routes": [
+      "1 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 25/24",
+    "sector": "25",
+    "latitude": 30.749,
+    "longitude": 76.7585,
+    "isResolvedOffline": true,
+    "routes": [
+      "1 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 14/15",
+    "sector": "14",
+    "latitude": 30.7555,
+    "longitude": 76.771,
+    "isResolvedOffline": true,
+    "routes": [
+      "1 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 16 Market (Down)",
+    "sector": "16",
+    "latitude": 30.745,
+    "longitude": 76.782,
+    "isResolvedOffline": true,
+    "routes": [
+      "1 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 28 Market (Down)",
+    "sector": "28",
+    "latitude": 30.714,
+    "longitude": 76.815,
+    "isResolvedOffline": true,
+    "routes": [
+      "1 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 19C/27",
+    "sector": "19",
+    "latitude": 30.73,
+    "longitude": 76.801,
+    "isResolvedOffline": true,
+    "routes": [
+      "30 (going)"
+    ]
+  },
+  {
+    "name": "Sector 19/27",
+    "sector": "19",
+    "latitude": 30.725,
+    "longitude": 76.8045,
+    "isResolvedOffline": true,
+    "routes": [
+      "30 (going)"
+    ]
+  },
+  {
+    "name": "Sector 19/27A",
+    "sector": "19",
+    "latitude": 30.725,
+    "longitude": 76.8045,
+    "isResolvedOffline": true,
+    "routes": [
+      "30 (going)"
+    ]
+  },
+  {
+    "name": "Command Hospital (Down)",
+    "sector": null,
+    "latitude": 30.7285,
+    "longitude": 76.7798,
+    "isResolvedOffline": false,
+    "routes": [
+      "30 (going)"
+    ]
+  },
+  {
+    "name": "Command Hospital (Up)",
+    "sector": null,
+    "latitude": 30.7406,
+    "longitude": 76.7885,
+    "isResolvedOffline": false,
+    "routes": [
+      "30 (returning)"
+    ]
+  },
+  {
+    "name": "Transport Chowk (Down)",
+    "sector": "26",
+    "latitude": 30.722,
+    "longitude": 76.818,
+    "isResolvedOffline": false,
+    "routes": [
+      "30 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 27A/19",
+    "sector": "27",
+    "latitude": 30.72,
+    "longitude": 76.808,
+    "isResolvedOffline": true,
+    "routes": [
+      "30 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 27/19",
+    "sector": "27",
+    "latitude": 30.725,
+    "longitude": 76.8045,
+    "isResolvedOffline": true,
+    "routes": [
+      "30 (returning)"
+    ]
+  },
+  {
+    "name": "Sector 27/19C",
+    "sector": "27",
+    "latitude": 30.725,
+    "longitude": 76.8045,
+    "isResolvedOffline": true,
+    "routes": [
+      "30 (returning)"
+    ]
+  }
+]
