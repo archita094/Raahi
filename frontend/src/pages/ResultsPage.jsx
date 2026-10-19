@@ -191,11 +191,10 @@ export default function ResultsPage() {
   };
 
   return (
-    <AnimatedPage>
-      <div className="results-page-wrapper">
-        <Navbar />
+    <AnimatedPage className="results-page-wrapper">
+      <Navbar />
 
-        <main className="results-main-content">
+      <main className="results-main-content">
           <div className="results-stage-wrapper">
 
             <div className="results-container">
@@ -534,7 +533,6 @@ export default function ResultsPage() {
             </div>
           </div>
         </main>
-      </div>
     </AnimatedPage>
   );
 }

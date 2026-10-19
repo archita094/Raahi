@@ -38,6 +38,15 @@ const apiLimiter = rateLimit({
 });
 app.use('/api/', apiLimiter);
 
+app.get('/', (req, res) => {
+  res.json({
+    success: true,
+    message: 'Raahi CTU Bus Transit API is live and operational.',
+    health: '/api/health',
+    version: '1.0.0'
+  });
+});
+
 app.use('/api', healthRoute);
 app.use('/api', stopRoutes);
 app.use('/api', routeRoutes);

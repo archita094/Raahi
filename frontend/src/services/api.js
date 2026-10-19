@@ -1,4 +1,21 @@
-const API_BASE_URL = import.meta.env.VITE_API_URL;
+function resolveApiBaseUrl() {
+  const envUrl = import.meta.env.VITE_API_BASE_URL || import.meta.env.VITE_API_URL;
+  if (typeof envUrl === 'string' && envUrl.trim().length > 0) {
+    let clean = envUrl.trim().replace(/\/+$/, '');
+    clean = clean.replace(/\/health\/?$/i, '');
+    if (!clean.endsWith('/api')) {
+      clean = `${clean}/api`;
+    }
+    return clean;
+  }
+  if (import.meta.env.DEV) {
+    return 'http://localhost:5000/api';
+  }
+  console.error('[API] Neither VITE_API_BASE_URL nor VITE_API_URL is configured in environment.');
+  return '/api';
+}
+
+const API_BASE_URL = resolveApiBaseUrl();
 
 async function apiRequest(endpoint, options = {}) {
   const url = `${API_BASE_URL}${endpoint}`;
@@ -12,6 +29,14 @@ async function apiRequest(endpoint, options = {}) {
 
   try {
     const response = await fetch(url, config);
+    const contentType = response.headers.get('content-type') || '';
+
+    if (!contentType.includes('application/json')) {
+      const sample = await response.text();
+      const preview = sample.substring(0, 100).replace(/\s+/g, ' ');
+      throw new Error(`Expected JSON response from ${url}, but got ${response.status} (${contentType || 'text'}): "${preview}..."`);
+    }
+
     const data = await response.json();
 
     if (!response.ok || data.success === false) {
