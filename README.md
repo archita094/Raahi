@@ -177,16 +177,6 @@ Before running the application, make sure you have installed:
    cp .env.example .env
    ```
 
-   *(Optional)* Add your Gemini API key in `backend/.env` if you want AI route comparison summaries:
-   ```env
-   PORT=5000
-   NODE_ENV=development
-   MONGODB_URI=mongodb://127.0.0.1:27017/raahi
-   GEMINI_API_KEY=AIzaSyYourGeminiApiKeyHere1234567890
-   ADMIN_API_KEY=raahi_ctu_admin_secret_key_2026
-   JWT_SECRET=raahi_jwt_secret_key_chandigarh_bus
-   ```
-
 4. **Start the backend server:**
    ```bash
    npm run dev
