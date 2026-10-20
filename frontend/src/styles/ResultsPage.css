@@ -22,7 +22,7 @@ div[style*="z-index: 10000001"] {
   position: fixed;
   inset: 0;
   z-index: 0;
-  background: url('/bg-indian-skyline.png') center center / cover no-repeat;
+  background: url('../assets/bg-indian-skyline.png') center center / cover no-repeat;
 }
 
 .results-page-wrapper::after {
