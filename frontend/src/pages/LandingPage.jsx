@@ -91,18 +91,30 @@ export default function LandingPage() {
     offset: ['start end', 'end start'],
   });
 
-  const l1X = useTransform(imageScroll, [0, 0.35, 0.65, 1], ['-100%', '40%', '40%', '-120%']);
-  const l1Opacity = useTransform(imageScroll, [0, 0.2, 0.8, 1], [0, 1, 1, 0]);
-  const l2X = useTransform(imageScroll, [0, 0.38, 0.62, 1], ['-120%', '50%', '50%', '-140%']);
-  const l2Opacity = useTransform(imageScroll, [0.05, 0.25, 0.78, 1], [0, 1, 1, 0]);
-  const l3X = useTransform(imageScroll, [0, 0.36, 0.64, 1], ['110%', '-25%', '-25%', '130%']); const l3Opacity = useTransform(imageScroll, [0.02, 0.22, 0.8, 1], [0, 1, 1, 0]);
-  const l4X = useTransform(imageScroll, [0, 0.4, 0.6, 1], ['130%', '-40%', '-40%', '150%']);
-  const l4Opacity = useTransform(imageScroll, [0.08, 0.28, 0.75, 1], [0, 1, 1, 0]);
+  // Smooth converging & diverging transforms for 4 photos
+  const l1X = useTransform(imageScroll, [0, 0.45, 0.58, 1], ['-120px', '75px', '75px', '-140px']);
+  const l1Y = useTransform(imageScroll, [0, 0.45, 0.58, 1], ['-60px', '35px', '35px', '-80px']);
+  const l1Rotate = useTransform(imageScroll, [0, 0.45, 0.58, 1], [-6, -2, -2, -8]);
+  const l1Scale = useTransform(imageScroll, [0, 0.45, 0.58, 1], [0.9, 1, 1, 0.92]);
+  const l1Opacity = useTransform(imageScroll, [0.05, 0.28, 0.72, 0.95], [0, 1, 1, 0]);
 
-  const l1Y = useTransform(imageScroll, [0, 0.5, 1], ['-30px', '0px', '40px']);
-  const l2Y = useTransform(imageScroll, [0, 0.5, 1], ['40px', '0px', '-20px']);
-  const l3Y = useTransform(imageScroll, [0, 0.5, 1], ['-20px', '0px', '30px']);
-  const l4Y = useTransform(imageScroll, [0, 0.5, 1], ['50px', '-40px', '-40px']);
+  const l2X = useTransform(imageScroll, [0, 0.45, 0.58, 1], ['-110px', '70px', '70px', '-135px']);
+  const l2Y = useTransform(imageScroll, [0, 0.45, 0.58, 1], ['70px', '-35px', '-35px', '95px']);
+  const l2Rotate = useTransform(imageScroll, [0, 0.45, 0.58, 1], [6, 1, 1, 7]);
+  const l2Scale = useTransform(imageScroll, [0, 0.45, 0.58, 1], [0.9, 1, 1, 0.92]);
+  const l2Opacity = useTransform(imageScroll, [0.08, 0.3, 0.7, 0.95], [0, 1, 1, 0]);
+
+  const l3X = useTransform(imageScroll, [0, 0.45, 0.58, 1], ['120px', '-75px', '-75px', '140px']);
+  const l3Y = useTransform(imageScroll, [0, 0.45, 0.58, 1], ['-60px', '35px', '35px', '-80px']);
+  const l3Rotate = useTransform(imageScroll, [0, 0.45, 0.58, 1], [5, -1, -1, 7]);
+  const l3Scale = useTransform(imageScroll, [0, 0.45, 0.58, 1], [0.9, 1, 1, 0.92]);
+  const l3Opacity = useTransform(imageScroll, [0.05, 0.28, 0.72, 0.95], [0, 1, 1, 0]);
+
+  const l4X = useTransform(imageScroll, [0, 0.45, 0.58, 1], ['110px', '-70px', '-70px', '135px']);
+  const l4Y = useTransform(imageScroll, [0, 0.45, 0.58, 1], ['70px', '-35px', '-35px', '95px']);
+  const l4Rotate = useTransform(imageScroll, [0, 0.45, 0.58, 1], [-5, 2, 2, -7]);
+  const l4Scale = useTransform(imageScroll, [0, 0.45, 0.58, 1], [0.9, 1, 1, 0.92]);
+  const l4Opacity = useTransform(imageScroll, [0.08, 0.3, 0.7, 0.95], [0, 1, 1, 0]);
 
   return (
     <AnimatedPage className="landing-page-wrapper">
@@ -111,7 +123,7 @@ export default function LandingPage() {
 
       <section className="hero-section" id="hero">
         <div className="hero-bg-wrapper">
-          <img src={HERO_PHOTO} alt="Transit journey landscape" className="hero-bg-image" />
+          <img src={heroImg || HERO_PHOTO} alt="Transit journey landscape" className="hero-bg-image" />
           <div className="hero-bg-overlay" />
         </div>
 
@@ -360,19 +372,19 @@ export default function LandingPage() {
           </div>
 
           <div className="floating-photos-layer">
-            <motion.div className="photo-card photo-l1" style={{ x: l1X, y: l1Y, opacity: l1Opacity }}>
+            <motion.div className="photo-card photo-l1" style={{ x: l1X, y: l1Y, rotate: l1Rotate, scale: l1Scale, opacity: l1Opacity }}>
               <div className="photo-inner"><img src={l1} alt="Coastal vista" loading="lazy" /></div>
               <span className="photo-caption">01 — Coastal Silence</span>
             </motion.div>
-            <motion.div className="photo-card photo-l2" style={{ x: l2X, y: l2Y, opacity: l2Opacity }}>
+            <motion.div className="photo-card photo-l2" style={{ x: l2X, y: l2Y, rotate: l2Rotate, scale: l2Scale, opacity: l2Opacity }}>
               <div className="photo-inner"><img src={l2} alt="Forest canopy" loading="lazy" /></div>
               <span className="photo-caption">02 — Morning Light</span>
             </motion.div>
-            <motion.div className="photo-card photo-l3" style={{ x: l3X, y: l3Y, opacity: l3Opacity }}>
+            <motion.div className="photo-card photo-l3" style={{ x: l3X, y: l3Y, rotate: l3Rotate, scale: l3Scale, opacity: l3Opacity }}>
               <div className="photo-inner"><img src={l3} alt="Mountain trail" loading="lazy" /></div>
               <span className="photo-caption">03 — High Pass</span>
             </motion.div>
-            <motion.div className="photo-card photo-l4" style={{ x: l4X, y: l4Y, opacity: l4Opacity }}>
+            <motion.div className="photo-card photo-l4" style={{ x: l4X, y: l4Y, rotate: l4Rotate, scale: l4Scale, opacity: l4Opacity }}>
               <div className="photo-inner"><img src={l4} alt="Hidden sanctuary" loading="lazy" /></div>
               <span className="photo-caption">04 — Hidden Sanctuary</span>
             </motion.div>

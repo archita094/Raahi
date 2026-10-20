@@ -333,9 +333,12 @@ export default function ResultsPage() {
 
               <section className="results-list">
                 {isLoading ? (
-                  <div style={{ textAlign: 'center', padding: '60px 0', color: '#64748b' }}>
-                    <Clock size={28} style={{ animation: 'spin 1.5s linear infinite', marginBottom: '12px' }} />
-                    <p>Calculating direct and transfer CTU routes...</p>
+                  <div className="results-loading-card">
+                    <div className="loading-spinner-halo">
+                      <Clock size={30} className="loading-spinner-clock" />
+                    </div>
+                    <p className="loading-card-title">Calculating direct and transfer CTU routes...</p>
+                    <span className="loading-card-subtitle">Scanning Chandigarh Tricity network & timetable schedules</span>
                   </div>
                 ) : isSameLocation ? (
                   <div className="same-location-card">
@@ -429,9 +432,9 @@ export default function ResultsPage() {
                                   {journey.scheduleInfo.isServiceActive
                                     ? (journey.scheduleInfo.nextBusInMinutes === 0
                                       ? `Bus arriving now (${journey.scheduleInfo.nextBusTime})`
-                                      : `Next bus in ${journey.scheduleInfo.nextBusInMinutes} min (${journey.scheduleInfo.nextBusTime})`)
+                                      : `Next bus in ${formatMinutesWait(journey.scheduleInfo.nextBusInMinutes)} (${journey.scheduleInfo.nextBusTime})`)
                                     : (journey.scheduleInfo.serviceStatus === 'before_first_bus'
-                                      ? `First bus at ${journey.scheduleInfo.nextBusTime} (in ${journey.scheduleInfo.nextBusInMinutes} min)`
+                                      ? `First bus at ${journey.scheduleInfo.nextBusTime} (in ${formatMinutesWait(journey.scheduleInfo.nextBusInMinutes)})`
                                       : `Service concluded today • Next: ${journey.scheduleInfo.nextBusTime}`)
                                   }
                                 </span>
@@ -547,5 +550,18 @@ function getFare(value) {
   if (!value) return 0;
   const match = String(value).match(/[\d.]+/);
   return match ? Number(match[0]) : 0;
+}
+
+function formatMinutesWait(minutes) {
+  if (typeof minutes !== 'number' || isNaN(minutes) || minutes <= 0) return 'now';
+  if (minutes < 55) {
+    return `${minutes} min`;
+  }
+  const hrs = Math.floor(minutes / 60);
+  const mins = minutes % 60;
+  if (mins === 0) {
+    return `${hrs} ${hrs === 1 ? 'hour' : 'hours'}`;
+  }
+  return `${hrs} ${hrs === 1 ? 'hour' : 'hours'} ${mins} min`;
 }
 
