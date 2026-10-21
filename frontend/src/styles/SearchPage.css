@@ -72,20 +72,18 @@
 .search-hero-title {
   font-size: clamp(2.3rem, 5vw, 3.6rem);
   font-family: var(--font-serif);
-  color: #ffffff;
-  text-shadow: 0 3px 14px rgba(0, 0, 0, 0.65), 0 1px 3px rgba(0, 0, 0, 0.8);
+  font-weight: 600;
+  color: #0f172a;
   line-height: 1.16;
   margin-bottom: 12px;
   letter-spacing: -0.015em;
-  font-weight: 700;
 }
 
 .title-gradient-accent {
-  background: linear-gradient(135deg, #38bdf8 0%, #67e8f9 50%, #bae6fd 100%);
+  background: linear-gradient(135deg, #00ccff 0%, #52f6f6 50%, #ade0f9 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   display: inline-block;
-  filter: drop-shadow(0 2px 8px rgba(0, 0, 0, 0.5));
 }
 
 .search-hero-subtitle {

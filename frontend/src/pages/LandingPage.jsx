@@ -123,7 +123,7 @@ export default function LandingPage() {
 
       <section className="hero-section" id="hero">
         <div className="hero-bg-wrapper">
-          <img src={heroImg || HERO_PHOTO} alt="Transit journey landscape" className="hero-bg-image" />
+          <img src={HERO_PHOTO} alt="Transit journey landscape" className="hero-bg-image" />
           <div className="hero-bg-overlay" />
         </div>
 
@@ -373,20 +373,16 @@ export default function LandingPage() {
 
           <div className="floating-photos-layer">
             <motion.div className="photo-card photo-l1" style={{ x: l1X, y: l1Y, rotate: l1Rotate, scale: l1Scale, opacity: l1Opacity }}>
-              <div className="photo-inner"><img src={l1} alt="Coastal vista" loading="lazy" /></div>
-              <span className="photo-caption">01 — Coastal Silence</span>
+              <div className="photo-inner"><img src={l1} alt="Scenic vista 1" loading="lazy" /></div>
             </motion.div>
             <motion.div className="photo-card photo-l2" style={{ x: l2X, y: l2Y, rotate: l2Rotate, scale: l2Scale, opacity: l2Opacity }}>
-              <div className="photo-inner"><img src={l2} alt="Forest canopy" loading="lazy" /></div>
-              <span className="photo-caption">02 — Morning Light</span>
+              <div className="photo-inner"><img src={l2} alt="Scenic vista 2" loading="lazy" /></div>
             </motion.div>
             <motion.div className="photo-card photo-l3" style={{ x: l3X, y: l3Y, rotate: l3Rotate, scale: l3Scale, opacity: l3Opacity }}>
-              <div className="photo-inner"><img src={l3} alt="Mountain trail" loading="lazy" /></div>
-              <span className="photo-caption">03 — High Pass</span>
+              <div className="photo-inner"><img src={l3} alt="Scenic vista 3" loading="lazy" /></div>
             </motion.div>
             <motion.div className="photo-card photo-l4" style={{ x: l4X, y: l4Y, rotate: l4Rotate, scale: l4Scale, opacity: l4Opacity }}>
-              <div className="photo-inner"><img src={l4} alt="Hidden sanctuary" loading="lazy" /></div>
-              <span className="photo-caption">04 — Hidden Sanctuary</span>
+              <div className="photo-inner"><img src={l4} alt="Scenic vista 4" loading="lazy" /></div>
             </motion.div>
           </div>
         </div>

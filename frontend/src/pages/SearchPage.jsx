@@ -208,12 +208,6 @@ export default function SearchPage() {
             <p className="search-hero-subtitle">
               Plan comfortable, seamless transit across Chandigarh Tricity with live CTU bus tracking.
             </p>
-
-            <div className="google-maps-badge">
-              <MapPin size={13} />
-              <span>OpenStreetMap & Tricity Network • 100% Free Live Map</span>
-              <span className="dot-live" />
-            </div>
           </motion.div>
 
           <div className="search-stage-layout">
